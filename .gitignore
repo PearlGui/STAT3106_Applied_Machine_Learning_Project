@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+ZINC20-Druglike/
+checkpoints/
+checkpoints_lstm/
+vocab.json
+loss_curve.png
